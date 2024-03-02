@@ -20,6 +20,7 @@ expected.
 string? readResult = null;
 bool useTestData = true;
 
+//Comment out Console.Clear() if you run into issues with debugging your application
 Console.Clear();
 
 int[] cashTill = new int[] { 0, 0, 0, 0 };
